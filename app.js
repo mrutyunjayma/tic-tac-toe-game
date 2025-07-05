@@ -33,7 +33,7 @@ boxes.forEach((box) => {
         }
         else{
             box.innerText="X";
-            box.style.color = "orange";
+            box.style. = "orange";
             turnO = true;
         }
 
